@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FloodFillVisualizer/static/css/main.63ff0953.css",
+    "main.js": "/FloodFillVisualizer/static/js/main.5db0612c.js",
+    "index.html": "/FloodFillVisualizer/index.html",
+    "main.63ff0953.css.map": "/FloodFillVisualizer/static/css/main.63ff0953.css.map",
+    "main.5db0612c.js.map": "/FloodFillVisualizer/static/js/main.5db0612c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ff0953.css",
+    "static/js/main.5db0612c.js"
+  ]
+}
